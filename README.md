@@ -17,11 +17,17 @@ The repositories under the [Social RSS org](https://github.com/socialrss) may ha
 
 ## Feature request, Support and Feedback
 
-You will find information on general feature request, support and feedback processes [here](https://github.com/socialrss/.github/blob/master/SUPPORT.md).
-The repositories under the [Social RSS org](https://github.com/socialrss) may have their own support guidelines.
+You will find information on general feature request, support and feedback processes [here](https://github.com/socialrss/.github/blob/master/SUPPORT.md).  
+The repositories under the [Social RSS org](https://github.com/socialrss) may have their own more specific guidelines.
 
 ## Origins
 
 The author and idealizer of Social RSS is also a heavy podcast listener, ocasional podcaster and author of the podcast client [podStation](https://github.com/podStation/podStation).
 
 The idea of creating a specification for extending feeds used for syndicating podcast to support also social network data (contact, funding, user groups, etc...) came from the need to enable podcast clients to foster the social contact between listeners and producers.
+
+## Similar Initiatives
+
+* [Podlove Project - Specifications](https://podlove.org/specifications/) - a set of specifications for extending podcast feeds with different types of information. I have [announced in their forum][social-rss-podlove-forum] that I have wrote Social RSS.
+
+[social-rss-podlove-forum]: https://community.podlove.org/t/i-have-wrote-a-specification-myself-i-would-like-to-share-social-rss/2023
