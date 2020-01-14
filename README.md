@@ -1,8 +1,9 @@
 # about - Social RSS General Information
 
 Social RSS is an extension for RSS feeds that adds support for social network related information.
-It is aimed mainly at feeds used for podcast, but it can be generally used.  
-Podcast aggregators (also known as clients) can use this information for better integration with social networks and to provide this more functionality related to social activites to their users (i.e. contacting participants, or funding a podcast).
+It is aimed mainly at feeds used in syndication of podcasts, but it can be generally used by other type of content distributed with RSS feeds, such as blog posts and newsfeeds.  
+
+Podcast aggregators (also known as clients) can and should use this information for better integrating with social networks and to provide this more functionality related to social activites to their users (i.e. contacting participants, or funding a podcast).
 
 This repository is used as entry point for the whole project and for project organization.
 For an overview of the **work in progress and roadmap**, check this [github project](https://github.com/orgs/socialrss/projects/1).
